@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Information systems and cybersecurity student<br>🔭 Currently working on Timely
+Information systems and cybersecurity student<br>🔭 Currently working on [Timely](https://timely.lt)
 
 
 # 💻 Tech Stack:
