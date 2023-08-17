@@ -14,7 +14,7 @@ Information systems and cybersecurity student<br>🔭 Currently working on [Time
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Marsietis&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
-### 😂 Random Dev Meme
+### 😂 Random (Horrible) Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
